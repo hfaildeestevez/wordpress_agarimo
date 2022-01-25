@@ -11,3 +11,12 @@
  Tags:         light, dark, two-columns, right-sidebar, responsive-layout, accessibility-ready
  Text Domain:  ff-associate-child
 */
+.entry-title{
+    font-family: "Malgun Gothic";
+}
+
+.entry-content{
+    font-family: "Malgun Gothic";
+}
+
+
