@@ -68,7 +68,7 @@ En esta parte podremos modificar el texto o información que aparecera en cada p
 
 ### Cambios en style.css/child
 
-En nuetsro style del tema child le añadimos los siguinetes setilos que aran un cambio significativo:
+En nuetsro style del tema child le añadimos los siguinetes estilos que haran un cambio significativo:
 
 `.entry-title{
     font-family: "Malgun Gothic";
