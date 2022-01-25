@@ -60,6 +60,12 @@ Otras dos paginas serian nuestro acerca de y contactos que se veran en las sigui
 
 ![Texto alternativo](/html/wp-content/themes/ff-associate-child/imagenes/contacto.png)
 
+Estas paginas se pueden modifigar en el apartado paginas que se podra ver en la sigueinte imagen:
+
+![Texto alternativo](/html/wp-content/themes/ff-associate-child/imagenes/paginas.png)
+
+En esta parte podremos modificar el texto o información que aparecera en cada pagina.
+
 ### Cambios en style.css/child
 
 En nuetsro style del tema child le añadimos los siguinetes setilos que aran un cambio significativo:
